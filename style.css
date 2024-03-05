@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(90deg, rgb);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: rgb(121, 22, 227);
+    background-color: rgb(124, 207, 202);
+}
+
+button {
+    background-color: rgb(50, 251, 107);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 30px 64px;
+
+}
